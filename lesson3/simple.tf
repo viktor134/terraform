@@ -27,3 +27,6 @@ resource "aws_instance" "victor" {
 
 #count = 0  destroy current server , if  count = 3  change count = 2 delete one server out three 
 #destroy command   "terraform destroy"
+
+
+
